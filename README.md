@@ -1,8 +1,3 @@
-### Hi there 👋
-
-I'm Dericus and I am a Cybersecurity Professional. I have a strong background in Logistics and IT Property Management. I enjoy learning Python and Powershell. 
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dhorner4)
 
 ### Hi there 👋, Dericus
 #### Cybersecurity Professional 
@@ -19,3 +14,4 @@ Skills: Bash/ Python/ Powershell/ Markdown
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dhorner4)](https://github.com/anuraghazra/github-readme-stats)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dhorner4)
